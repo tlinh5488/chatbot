@@ -1,0 +1,7 @@
+X.npy
+chunks.json
+*.log
+data/
+.env
+.ipynb_checkpoints/
+__pycache__/
